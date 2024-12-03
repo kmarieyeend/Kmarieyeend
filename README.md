@@ -32,18 +32,19 @@ Recent graduate, I am now eager to transition into the field of IT, specifically
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](https://google.com) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](https://google.com) |
-| Incident Response Planning and Execution      | [SOC Automation Lab](https://google.com) |
-| Case Management with TheHive                  | [SOC Automation Lab](https://google.com) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](https://google.com) |
-| Threat Intelligence Analysis                  | [Threat Intel Lab](https://google.com) |
-| Malware Analysis and Reverse Engineering      | [Malware Analysis Lab](https://google.com) |
-| Vulnerability Management and Patch Deployment | [Vulnerability Lab](https://google.com) |
-| Security Event Correlation                    | [Detection Lab](https://google.com) |
-| Honeypot Implementation and Log Analysis      | Insert here|
+| Honeypot Deployment and Configuration         | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
+| Proactive Threat Detection using Honeypots    | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
+| Log Analysis with LogStash                    | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
+| SDLC Methodology for Security Implementation  | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
+| Security Automation with Shuffle SOAR         | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
+| Incident Response Planning and Execution      | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
+| Case Management with TheHive                  | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
+| Scripting and Automation for Threat Mitigation | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
+
 
 
 ## Projects
-- Honeypot Implementation and Log Analysis
+ -<a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a>
