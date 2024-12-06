@@ -37,14 +37,16 @@ Recent graduate, I am now eager to transition into the field of IT, specifically
 | Proactive Threat Detection using Honeypots    | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
 | Log Analysis with LogStash                    | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
 | SDLC Methodology for Security Implementation  | <a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a> |
-| SIEM Implementation and Log Analysis          | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
-| Security Automation with Shuffle SOAR         | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
-| Incident Response Planning and Execution      | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
-| Case Management with TheHive                  | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://app.letsdefend.io/path/soc-analyst-learning-path">SOC Analyst Learning Path</a> |
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/kmarieyeend/LetsDefend-EventID-77">LetsDefend SOC138: Detected Suspicious XLS File</a> |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/kmarieyeend/LetsDefend-EventID-77">LetsDefend SOC138: Detected Suspicious XLS File</a>|
+| Security Automation with SOAR Playboook       | <a href="https://github.com/kmarieyeend/LetsDefend-EventID-77">LetsDefend SOC138: Detected Suspicious XLS File</a> |
+| Incident Response Planning and Execution      | <a href="https://github.com/kmarieyeend/LetsDefend-EventID-77">LetsDefend SOC138: Detected Suspicious XLS File</a> |
+| Endpoint Detection and Response               | <a href="https://github.com/kmarieyeend/LetsDefend-EventID-77">LetsDefend SOC138: Detected Suspicious XLS File</a>|
+| Sandbox Behavior Report Analysis | <a href="https://github.com/kmarieyeend/LetsDefend-EventID-77">LetsDefend SOC138: Detected Suspicious XLS File</a>|
 
 
 
 ## Projects
  -<a href="https://github.com/kmarieyeend/Honeypot-Implementation/blob/main/README.md">Honeypot Implementation</a>
+ 
+-<a href="https://github.com/kmarieyeend/LetsDefend-EventID-77">LetsDefend SOC138: Detected Suspicious XLS File</a>
